@@ -1,6 +1,7 @@
 # Curso-Machine-Learning
 Ejercicios Curso Machine Learning
 
+# Dia 1: 
 INDICE:
 1. Ejercicios M5 - 01 - Python Notebook
 2. Ejercicios M5 - 02 - Condicionales
