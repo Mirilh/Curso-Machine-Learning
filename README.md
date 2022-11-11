@@ -26,7 +26,7 @@ DESCRIPCION:
 3. Subir CSV a una BBDD y crear queris
 4. Visualización de datos
 
-# 2. MACHINE LEARNING: 
+# 3. MACHINE LEARNING: 
 INDICE:
 1. Introducción a Machine Learning con Scikit-Learn
 2. Ejercicio - 07 - Regresión
