@@ -25,3 +25,23 @@ DESCRIPCION:
 2. Limpiar los datos
 3. Subir CSV a una BBDD y crear queris
 4. Visualización de datos
+
+# 2. MACHINE LEARNING: 
+INDICE:
+1. Introducción a Machine Learning con Scikit-Learn
+2. Ejercicio - 07 - Regresión
+3. Ejercicio - 09 - Folium_GenerandoMapas
+4. Ejercicio Prophet - Predecir el valor de Bitcoin
+5. EJercicio Prophet - Predecir el valor de Tesla
+6. CSV usados
+
+DESCRIPCION: 
+1. Aprendizaje de estructuras y conceptos de Machine Learning
+2. Ejercicios de regresión
+3. Ejercicios con Folium para generar mapas
+4. Ejercicio predecir el valor de Bitcoin
+5. EJercicio predecir el valor de Tesla
+6. CSV usados
+
+
+
